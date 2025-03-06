@@ -1,0 +1,46 @@
+
+body{
+    background-color: lightblue;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 30%;
+    border-radius: 10px;
+}
+
+button{
+    display: inline-block;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.page-buttons1{
+    position: relative;
+    right: 150px;
+}
+
+#pasta{
+    position: relative;
+    right: 50px;
+}
+
+#bowl{
+    position: relative;
+    right: 20px;
+}
+
+.page-buttons3{
+    position: relative;
+    left: 110px;
+}
+
+
+
+
